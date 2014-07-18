@@ -1,0 +1,5 @@
+
+
+Set datasource name as "databasePartion".
+create folder name as "Server" in "D:"
+Paste the note pad file "AntivirusserverIP" in "D:"  and change your ip or localhost
